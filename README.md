@@ -1,2 +1,2 @@
 # Frontend
-hi welcome to the frontend software development Sde
+hi welcome to the frontend software development SDE
