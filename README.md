@@ -1,2 +1,2 @@
 # Frontend
-hi welcome to the frontend softare 
+hi welcome to the frontend softaware
